@@ -102,12 +102,37 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Biography
   
 
-<br/>  
+I started to work young, when I was 16 years old, as a industrial mechanic intern.
+At 2005 I started a system information graduation course, at 2009 I was finishing the course when I got my first IT job as an intern.
+I got jobs in digital agencies and worked with website development. 
 
-  
+At 2012, looking for a new position, I saw that Java had the best positions in my region and I started to study Java frameworks like: JSF and Spring, until getting a job at Flexa. I stayed at Flexa for 6 years and developed 2 big projects. 
+The first project was a e-learning system for an local university built in Java for 3 years.
+The second project was a management system to a helicopter canadian company, built with Ruby on Rails for 3 years.
+At the Flexa I started learning devops, docker, terraform and AWS, because the company change the area from a software hourse to a cloud consultance.
+
+The next company was the Benevix, a health company, which I was devops engineer when I had the opportunitty to architect the migration from on-premise servers to AWS, all systems. 
+In this process we take the opportunitty to improve all the development process, adding automated deployment and tools to ensure the software quality.
+We used ECS as container orcherstrator and all CI/CD pipilines was developed with Azure DevOps.
+
+My next position was LiftBank as a tech lead, a fintech based here in Vitória.
+There I had the opportunitty to develop an acquirer and our products was Point of Salles and a digital payment gateway.
+All platform was build with serverless at AWS. Our core API was a GraphQL API, built with AWS AppSync, managed with Amplify.
+We used many AWS tools as StepFunctions, lambdas, SQS, DynamoDB, ElasticSearch Service and so on. 
+The frontend was built with ReactJS and React Native, but I just provisioned the infrastructure to the web systems.
+The language used was Javascript with NodeJS.
+
+Now I'm a senior devops engineer at a big company of payments here in Brazil called Pagar.me of the StoneCO group.
+I have started there at last november.
+My first project was improve a deployment tool built in nodejs, which via Slack we can deploy our services.
+The project is SOx compliant, but only the devops engineers had permission to deploy, generating bottle neck to development teams. 
+My job was segregate the permissions to empower the development teams to deploy their self systems and add polymorphic capacity to add new type of services through a service catalog in dynamodb.
+Now I'm working in a project to update terraform version to 0.14, now it's 0.11, add lint tools as tfsec and checkov in the circle ci to static verification of terraform code, and implement Atlantis to automate apply of terraform directly from github.
+I'm with the mission of migrate all terraform projects to the new pattern.
+I'm responsible to solve tickets from other teams too.  
 
 <br/>  
 
